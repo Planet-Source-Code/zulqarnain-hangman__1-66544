@@ -1,0 +1,42 @@
+==================================
+::HANGMAN::
+==================================
+Version 1.0
+Provided to you free by Zulqarnain F. Sarani
+
+==================================
+::OBJECTIVE::
+==================================
+Try to solve the puzzle without hanging the
+stick figure man.  Every wrong guess adds
+another body part.
+------------------------------------------------
+
+==================================
+::SOMETHING TO BE AWARE OF::
+==================================
+The end game animation will not play while you
+are running in design mode.  The only way you
+will see the animation is after you compile.
+
+==================================
+::MESSAGE FROM THE AUTHOR::
+==================================
+THis is my 2nd submission to PSC within 3 days.
+I got good good response for my first submission i.e. Accounts Management System which i developed just in 15 hours.
+So I decided to make more contribution to PSC.
+then I decided to develop a game and atlast I developed HANGAMN within 3 days.
+This is a very useful game which will help u ppl understand the use of files nd getting data and much more.....
+All the categories are stored as .hm files which are actually .txt files.
+
+Thanks for downloading! I hope you find this program useful. 
+Please vote for me, post your feedbacks, comments, questions, queries, errors if found etc.
+If you have any query abt Hangman let me know.....
+And plz do RATE it.
+
+==================================
+::CREATOR/DEVELOPER::
+==================================
+Programmer: Zulqarnain F. Sarani 
+E-mail: zulqarnain_sarani@yahoo.com
+	zulqarnain_sarani@hotmail.com
